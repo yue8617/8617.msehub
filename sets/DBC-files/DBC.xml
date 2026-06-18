@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DBC</name>
+			<longname>Desert Bar Cube</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-17</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Outcaster Greenblade</name>
+			<text>When this creature enters, search your library for a land card, reveal it, put it into your hand, then shuffle.
+This creature gets +1/+1 for each Desert you control.</text>
+			<set rarity="rare" picurl="https://8617.msehub/sets/DBC-files/img/0.jpg" num="92">DBC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
